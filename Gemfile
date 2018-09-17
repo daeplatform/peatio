@@ -67,7 +67,7 @@ gem 'simple_form', '~> 3.1.0'
 gem 'slim-rails'
 gem 'twilio-ruby', '~> 3.11'
 gem 'uglifier'
-gem 'unread', github: 'peatio/unread'
+gem 'unread', github: 'aanwhs/unread'
 gem 'whenever', '~> 0.9.2'
 
 group :development, :test do
@@ -85,7 +85,7 @@ group :development, :test do
   gem 'mails_viewer'
   gem 'meta_request'
   gem 'mina'
-  gem 'mina-slack', github: 'peatio/mina-slack'
+  gem 'mina-slack', github: 'aanwhs/mina-slack'
   gem 'pry-rails'
   gem 'quiet_assets'
   gem 'rails_best_practices', require: false
