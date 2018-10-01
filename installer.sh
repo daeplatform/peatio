@@ -151,7 +151,7 @@ echo -e "\n\n"
 echo -e "\033[34;7mCloning Stable Peatio Repo\e[0m"
 
 mkdir -p ~/peatio
-git clone https://github.com/aanwhs/PeatioCryptoExchange.git .
+git clone https://github.com/aanwhs/peatio.git .
 cd peatio
 
 echo -e "\n\n"
